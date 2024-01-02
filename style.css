@@ -60,7 +60,7 @@ body{
     cursor: pointer;
   }
 .main_div{
-    background-image: url(/Assets/bg.png);
+    background-image: url(./Assets/image/bg.png);
     background-size: cover;
     background-attachment: fixed;
     height: 90vh;
